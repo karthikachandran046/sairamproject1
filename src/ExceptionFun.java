@@ -3,6 +3,7 @@ public class ExceptionFun {
 public static void main(String[] args) {
 	System.out.println("one");
 	System.out.println("two");
+	System.out.println("three");
 	try {
 	    System.out.println(5/0);
 	}catch(Exception e){
